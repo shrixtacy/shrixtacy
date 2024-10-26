@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ADVANCED DATA ANALYTICS
 - 💞️ I’m looking to collaborate on the basis of hackathons or competative coding 
 - 📫 Reach me through my instagram account - [My Instagram](https://www.instagram.com/obs1ruct/)
--  My pronounce are Co/der 😂
+-  My pronounce are Co<>der 😂
 - ⚡ Fun fact i am friendly but also an introvert LOL 
 
 <!---
