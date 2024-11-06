@@ -1,3 +1,5 @@
+
+![Neon and rain](https://github.com/user-attachments/assets/5eb1e65b-a810-4078-9b69-96450ec02103)
 - 👋 Hi, I’m @shrixtacy oryou may call me Shri
 - 👀 I’m interested in WEB DESIGINING & AI/ML
 - 🌱 I’m currently learning ADVANCED DATA ANALYTICS
