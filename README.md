@@ -6,8 +6,8 @@
 - 📫 Reach me through my instagram account - [My Instagram](https://www.instagram.com/obs1ruct/)
 - 🧑‍💻 My pronounce are Co<>der 
 - ⚡ Fun fact i am friendly but also an introvert LOL 
-
-<!---![𝓛𝓲𝓷 - Anime Gifs (Pixels)](https://github.com/user-attachments/assets/fd6349d3-9f75-412c-8f76-fe29bda4df4a)
+![𝓛𝓲𝓷 - Anime Gifs (Pixels)](https://github.com/user-attachments/assets/fd6349d3-9f75-412c-8f76-fe29bda4df4a)
+<!---
 
 shrixtacy/shrixtacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
