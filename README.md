@@ -7,8 +7,7 @@
 - 🧑‍💻 My pronounce are Co<>der 
 - ⚡ Fun fact i am friendly but also an introvert LOL 
 
-![Photoroom-20241117_114937.png](https://github.com/user-attachments/assets/9257237d-1934-40c2-bcdc-95fb6b917557)
-
+![Photoroom-20241117_120613.png](https://github.com/user-attachments/assets/c34ca7a1-3a81-405f-9ffe-35716bb41196)
 
 <!---
 
