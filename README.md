@@ -6,7 +6,9 @@
 - 📫 Reach me through my instagram account - [My Instagram](https://www.instagram.com/obs1ruct/)
 - 🧑‍💻 My pronounce are Co<>der 
 - ⚡ Fun fact i am friendly but also an introvert LOL 
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Shrixtacy/30-nites-of-code)  
+  ![@Shrixtacy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Shrixtacy)
 ![Photoroom-20241117_120613.png](https://github.com/user-attachments/assets/c34ca7a1-3a81-405f-9ffe-35716bb41196)
 
 <!---
