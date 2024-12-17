@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on the basis of hackathons or competative coding 
 - 📫 Reach me through my instagram account - [My Instagram](https://www.instagram.com/obs1ruct/)
 - 🧑‍💻 My pronounce are Co<>der 
-- ⚡ Fun fact i am friendly but also an introvert LOL 
+- ⚡ Fun fact i am friendly but also an introvert LOL
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrixtacy&theme=dark)](https://git.io/streak-stats)
   
 ![Photoroom-20241117_120613.png](https://github.com/user-attachments/assets/c34ca7a1-3a81-405f-9ffe-35716bb41196)
