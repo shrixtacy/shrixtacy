@@ -6,7 +6,7 @@ I won’t use those typical GPT-generated words like “enthusiast” or “pass
 
 My public repositories speak for themselves. I’ve put in work. Not perfect, not polished, but real. Each commit, each broken feature I fixed, each late night debugging a silly mistake it's part of my journey. I don't try to appear like I know everything, because I don't. But I show up, I try, I improve. That’s what matters to me.
 
-I’ve got a head full of ideas startups, side projects, experiments. Some flop, some click, but all of them teach me something. I’ve worked on AI tools, dashboards, platforms, and systems that solve real problems. It may look scattered, but for me, it’s all exploration. I’m not trying to be some polished tech poster boy—I just want the space to learn, mess up, improve, and build with honesty. No buzzwords. Just real work. Just Shri.
+I’ve got a head full of ideas startups, side projects, experiments. Some flop, some click, but all of them teach me something. I’ve worked on AI tools, dashboards, platforms, and systems that solve real problems. It may look scattered, but for me, it’s all exploration. I’m not trying to be some polished tech poster boy I just want the space to learn, mess up, improve, and build with honesty. No buzzwords. Just real work. Just Shri.
 
 ![Neon and rain](https://github.com/user-attachments/assets/5eb1e65b-a810-4078-9b69-96450ec02103)
 - 👋 Hi, I’m @shrixtacy or you may call me Shri
