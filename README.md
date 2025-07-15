@@ -1,5 +1,5 @@
-#I am Shri !
-##I Write , Design & Build. 
+# I am Shri !
+## I Write , Design & Build. 
 
 ![Neon and rain](https://github.com/user-attachments/assets/5eb1e65b-a810-4078-9b69-96450ec02103)
 - 👋 Hi, I’m @shrixtacy or you may call me Shri
