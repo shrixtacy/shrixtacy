@@ -44,14 +44,15 @@
 ![DALL·E](https://img.shields.io/badge/DALL·E-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![RunwayML](https://img.shields.io/badge/RunwayML-FB5581?style=for-the-badge&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF9900?style=for-the-badge&logoColor=white)
-![Leonardo AI](https://img.shields.io/badge/Leonardo_AI-323232?style=for-the-badge)
-![Lexica](https://img.shields.io/badge/Lexica-444?style=for-the-badge)
 ![Retell AI](https://img.shields.io/badge/Retell_AI-FF6600?style=for-the-badge&logo=amazon&logoColor=white)
 
 > ⚙️ Regularly practice **prompt engineering** to build optimized AI workflows, UI/UX design automation, creative generation pipelines, and API-based AI integrations using Make, Retool, and Zapier.
 
 #### 🛠 Tools & Platforms
+![Cursor](https://img.shields.io/badge/Cursor-2E2E2E?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-1A1A1A?style=for-the-badge&logo=thunder&logoColor=white)
+![Lovable.dev](https://img.shields.io/badge/Lovable.dev-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
