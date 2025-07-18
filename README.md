@@ -17,8 +17,8 @@
 
 ### 🔥 What I’m Working On Right Now
 - 🍽 **ServeNow** – Smart restaurant order and management system (Admin + Manager + QR Web App)
-- ⚙️ **Apiman** – API monitoring, scaling, and analytics solution
-- 📊 **Surplus** – Data analytics + financial dashboard platform (currently in dev)
+- ⚙️ **Apiman** – Platform Build for Techie Startup Enthusiasts
+- 📊 **Surplus** – Data analytics platform (currently in dev)
 
 > *"Don’t build what’s trending — build what’s needed."*
 
