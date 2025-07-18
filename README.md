@@ -67,19 +67,14 @@
 
 - 🔥 **ServeNow**  
   Dine-in QR web app + dashboard system for restaurant operations (Admin, Manager, Customer)
-
-- 🛠️ **Apiman**  
-  Monitor, scale, and analyze APIs with precision — your API layer guardian
-
-- 📊 **Surplus**  
-  Data & financial analytics dashboard built for users to visualize and track performance, custom metrics, and trends
-
+- 🛠️ **NETRA AI**  
+  Navigation and Environmental Tracking for Responsive Assistance
+- 📊 **NMIET Event Portal**  
+  A dynamic website for registration and management of our college events.
 - 👁 **PRANA AI (WIP)**  
   AI assistant for emergency services – real-time emotion detection, ambulance sync, appointment booking & more
-
 - 🧠 **ZealPlane**  
   A creative platform where comic artists, storytellers & readers connect
-
 - ❤️ **Yogdan**  
   Volunteer-donation platform for social good – clean UI + transparent backend
 
