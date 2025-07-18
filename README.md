@@ -43,6 +43,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-2E2E2E?style=for-the-badge&logo=cursor&logoColor=white)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-1A1A1A?style=for-the-badge&logo=thunder&logoColor=white)
 ![MidJourney](https://img.shields.io/badge/MidJourney-000000?style=for-the-badge&logoColor=white)
+![Lovable.dev](https://img.shields.io/badge/Lovable.dev-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
 ![DALL·E](https://img.shields.io/badge/DALL·E-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![RunwayML](https://img.shields.io/badge/RunwayML-FB5581?style=for-the-badge&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF9900?style=for-the-badge&logoColor=white)
