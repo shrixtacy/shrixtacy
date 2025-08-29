@@ -1,5 +1,6 @@
-<h1![ca262e0354eea311c41134c3e4bc3bc2](https://github.com/user-attachments/assets/b51fe5e0-bfeb-4c2b-8144-b766752f4687)
- align="center">Hey 👋, I'm Shri</h1>
+![ca262e0354eea311c41134c3e4bc3bc2](https://github.com/user-attachments/assets/b51fe5e0-bfeb-4c2b-8144-b766752f4687)
+
+ <h1 align="center">Hey 👋, I'm Shri</h1>
 <h3 align="center">🚀 Tech Founder | MERN Stack Developer | Data Analyst | Builder of Digital Ecosystems</h3>
 
 <p align="center">
