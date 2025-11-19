@@ -87,8 +87,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrixtacy&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=shrixtacy&theme=radical" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrixtacy&layout=compact&theme=radical" />
 </p>
 
