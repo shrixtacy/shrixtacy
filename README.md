@@ -83,13 +83,28 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrixtacy&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrixtacy&layout=compact&theme=radical" />
-</p>
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrixtacy&theme=radical)
+
+---
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrixtacy&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrixtacy&theme=radical)
+
+---
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrixtacy&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrixtacy&theme=radical&utcOffset=5.5)
+
+---
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shrixtacy&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
+![Contribution Snake](https://raw.githubusercontent.com/shrixtacy/shrixtacy/output/github-contribution-grid-snake.svg)
+
 
 ---
 
