@@ -99,12 +99,7 @@
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shrixtacy&theme=radical&no-frame=true&row=1&column=6)
-
----
-
-![Contribution Snake](https://raw.githubusercontent.com/shrixtacy/shrixtacy/output/github-contribution-grid-snake.svg)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shrixtacy&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
